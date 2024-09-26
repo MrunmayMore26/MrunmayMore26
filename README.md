@@ -22,8 +22,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.instagram.com/mr_.rafik/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fmr_.rafik%2F&subtitle=@mr_.rafik&size=square" alt="RAFIK SHAH">
+      <a href="https://www.instagram.com/_m0re_mrunmay_26/" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fmr_.mrunmay%2F&subtitle=@_m0re_mrunmay_26&size=square" alt="MRUNMAY MORE">
       </a>
     </td>
     <td align="center">
